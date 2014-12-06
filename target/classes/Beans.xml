@@ -8,7 +8,7 @@
    <bean id="helloWorld" 
        class="com.tutorialspoint.HelloWorld"
        init-method="init" destroy-method="destroy">
-       <property name="message" value="Hello World!"/>
+       <property name="message" value="Spring Test!"/>
    </bean>
 
 </beans>
